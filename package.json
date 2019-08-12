@@ -1,0 +1,16 @@
+{
+  "name": "secure-url2",
+  "version": "1.0.0",
+  "description": "This is a test of signed URL Cloud Functins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rich Rose",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.2.1",
+    "@google-cloud/storage": "^3.1.0",
+    "googleapis": "^42.0.0"
+  }
+}
